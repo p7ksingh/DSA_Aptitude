@@ -1,0 +1,10 @@
+In a group of 60 people, 27 like cold drinks and 42 like hot drinks and each person likes at least one of the two drinks. How many like both coffee and tea?
+
+Solution description
+Let A = Set of people who like cold drinks B = Set of people who like hot drinks Given,
+(A ∪B) = 60 n(A) = 27 n(B) = 42 then;
+n(A ∩ B) = n(A) + n(B) - n(A ∪ B)
+= 27 + 42 - 60
+= 69 - 60 = 9
+= 9
+Therefore, 9 people like both tea and coffee.
